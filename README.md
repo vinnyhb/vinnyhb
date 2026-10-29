@@ -6,7 +6,7 @@ My name is Vincent Hartman-Baker. I am a Physics major at [Napa Valley College](
 He/Him/His
 
 ### Fun Fact:
-<sup>180m<sup/>Ta is the longest lived metastable nuclear isomer! its half life is on the order of 10<sup>15<sup/> years!
+<sup>180m</sup>Ta is the longest lived metastable nuclear isomer! its half life is on the order of 10<sup>15</sup> years!
 <!--
 **vinnyhb/vinnyhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
